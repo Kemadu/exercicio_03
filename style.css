@@ -1,32 +1,37 @@
 h1 {
-    font-family: sans-serif;
-}
+    color: seagreen;
+    font-size: 65px;
+    font-family: sans-serif, Helvetica; 
+  }
 
-p {
+  .cor-de-fundo {
+    background-color: whitesmoke;
+  }
+
+  p {
     font-weight: 600;
-    font-size: 3em;
-    text-decoration: underline;
-}
+  }
 
-body {
+  body {
     font-size: 16px;
-    text-align: center;
-}
+  }
 
-ul {
+  li {
     font-style: italic;
+    line-height: 60px;
+    text-align: center;
     text-decoration: underline;
-    line-height: 30px;
-}
+    font-size: 2em;
+  }
 
-#amarelo {
-    background-color: yellow;
-}
+  #verde {
+    background-color: green;
+  }
 
-#vermelho {
-    background-color: red;
-}
+  #verde-escuro {
+    background-color: seagreen;
+  }
 
-#marrom {
-    background-color: brown;
-}
+  #azul {
+    background-color: blue;
+  }
